@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d5d848c4037a61042afb72492c79c3e8
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 33
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Comforter Brush
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7165d9d12dc580e41942b7b30107710d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
